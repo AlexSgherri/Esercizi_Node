@@ -1,0 +1,1 @@
+ Questa è il dato richiest che troviamo con la curl request -> content-type: application/json; charset=utf-8
